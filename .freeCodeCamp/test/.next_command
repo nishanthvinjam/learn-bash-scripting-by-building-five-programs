@@ -300,3 +300,4 @@ help
 help if
 ./bingo.sh
 ./bingo.sh
+touch fortune.sh
