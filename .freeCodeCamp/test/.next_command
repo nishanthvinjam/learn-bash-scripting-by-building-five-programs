@@ -445,3 +445,5 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh
 touch five.sh
+chmod +x f
+chmod +x five.sh
