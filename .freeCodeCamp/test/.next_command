@@ -303,3 +303,4 @@ help if
 touch fortune.sh
 ls --color=auto -l
 chmod +x fortune.sh
+./fortune.sh
