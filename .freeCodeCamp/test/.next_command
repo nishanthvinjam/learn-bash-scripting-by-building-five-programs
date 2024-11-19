@@ -301,3 +301,5 @@ help if
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+ls --color=auto -l
+chmod +x fortune.sh
