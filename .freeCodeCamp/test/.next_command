@@ -252,3 +252,4 @@ touch bingo.sh
 ls --color=auto -l
 ls --color=auto -l
 chmod +x bingo.sh
+which bash
