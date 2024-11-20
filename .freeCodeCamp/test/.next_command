@@ -488,3 +488,4 @@ type read
 type if
 tye then
 type then
+type bash
