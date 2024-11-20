@@ -486,3 +486,5 @@ help type
 type echo
 type read
 type if
+tye then
+type then
